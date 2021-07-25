@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Simply Neuroscience",
+    "slug": "simplyneuroscience",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/SAi.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#075F63",
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "The official app from Simply Neuroscience."
+  }
+}
